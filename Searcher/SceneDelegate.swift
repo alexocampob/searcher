@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Searcher
 //
-//  Created by David Alexander Ocampo Barbosa on 9/09/20.
+//  Created by David Alexander Ocampo Barbosa on 14/09/20.
 //  Copyright © 2020 David Alexander Ocampo Barbosa. All rights reserved.
 //
 
